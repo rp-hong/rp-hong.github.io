@@ -8,7 +8,7 @@ pub_date:       "2025"
 
 abstract: >-
   Short Video Hate Detection (SVHD) is increasingly vital as hateful content — such as racial and gender-based discrimination — spreads rapidly across platforms like TikTok, YouTube Shorts, and Instagram Reels. Existing approaches face significant challenges:...
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover_www25_1.png
 authors:
   - Jian Lang
   - Rongpei Hong

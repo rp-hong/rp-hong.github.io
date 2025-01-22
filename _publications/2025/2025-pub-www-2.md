@@ -8,7 +8,7 @@ pub_date:       "2025"
 
 abstract: >-
   The rapid spread of rumor content on online micro-video platforms poses significant threats to public health and safety. However, existing Micro-Video Rumor Detection (MVRD) methods are generally black-box, which lacks transparency and makes it difficult to understand the reasoning behind classification decisions...
-# cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover_www25_2.jpg
 authors:
   - Rongpei Hong
   - Jian Lang
