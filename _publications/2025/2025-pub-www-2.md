@@ -2,8 +2,8 @@
 title:          "Following Clues, Approaching the Truth: Explainable Micro-Video Rumor Detection via Chain-of-Thought Reasoning"
 date:           2025-05-1 00:02:00 +0800
 selected:       true
-pub:            "The Web Conference (WWW)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+pub:            "The ACM Web Conference (WWW)"
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">Full Paper</span> <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date:       "2025"
 
 abstract: >-

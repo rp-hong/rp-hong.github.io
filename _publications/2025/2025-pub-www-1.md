@@ -2,8 +2,8 @@
 title:          "Biting Off More Than You Can Detect: Retrieval-Augmented Multimodal Experts for Short Video Hate Detection"
 date:           2025-05-1 00:01:00 +0800
 selected:       true
-pub:            "The Web Conference (WWW)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Poster</span>'
+pub:            "The ACM Web Conference (WWW)"
+pub_last:       '<span class="badge badge-pill badge-publication badge-primary">Full Paper</span> <span class="badge badge-pill badge-publication badge-warning">Poster</span>'
 pub_date:       "2025"
 
 abstract: >-
