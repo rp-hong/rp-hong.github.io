@@ -45,11 +45,11 @@ education:
     B.S. in Software Engineering
   date: Sep. 2019 - Jul. 2023
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: SZ DJI Technology Co., Ltd.
+  logo: /assets/images/badges/DJI.svg
+  position: Embedded Engineer Intern
+  date: Jan. 2022 - Jul. 2022
 
 awards:
 - name: Master's Student Academic Scholarship (2nd Division)  
