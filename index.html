@@ -1,10 +1,23 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="refresh" content="0; url=https://rongpei.org">
-    <title>Redirecting...</title>
-  </head>
-  <body>
-    <p>Redirecting to <a href="https://rongpei.org">Rongpei Hong Homepage</a></p>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Meta Refresh as a fallback -->
+  <meta http-equiv="refresh" content="0; url=https://rongpei.org" />
+  <!-- Prevent this transition page from being indexed, but allow link equity to flow -->
+  <meta name="robots" content="noindex,follow" />
+  <!-- Declare the canonical destination -->
+  <link rel="canonical" href="https://rongpei.org" />
+  <title>Redirecting to Rongpei Hong Homepage…</title>
+  <script>
+    // JavaScript fallback to ensure redirect
+    window.location.replace("https://rongpei.org");
+  </script>
+</head>
+<body>
+  <p>
+    Redirecting to <a href="https://rongpei.org">Rongpei Hong Homepage</a>
+  </p>
+</body>
 </html>
